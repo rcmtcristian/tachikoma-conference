@@ -14,14 +14,9 @@ import {
   TonemapPlugin,
   SSRPlugin,
   SSAOPlugin,
-  AnisotropyPlugin,
   GammaCorrectionPlugin,
-  addBasePlugins,
   BloomPlugin,
-  TweakpaneUiPlugin,
-  AssetManagerBasicPopupPlugin,
-  CanvasSnipperPlugin,
-  mobileAndTabletCheck,
+    mobileAndTabletCheck,
 } from "webgi";
 
 import gsap from "gsap";

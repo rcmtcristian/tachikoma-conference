@@ -1,4 +1,3 @@
-import React from "react";
 import Search from "../assets/images/search.svg";
 import Store from "../assets/images/store.svg";
 

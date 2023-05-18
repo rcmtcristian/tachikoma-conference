@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import WebgiViewer from "./WebgiViewer";
 import Nav from "./Nav";
 import Jumbotron from "./Jumbotron";
