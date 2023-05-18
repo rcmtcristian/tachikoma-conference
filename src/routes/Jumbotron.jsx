@@ -1,8 +1,5 @@
-import { Item } from "../../Js/item.js";
-
-[...document.querySelectorAll(".grid__item > .grid__item-img")].forEach(
-  (img) => new Item(img),
-);
+import textDisplay from "../../Js/index.js";
+textDisplay();
 
 export default function Index() {
   const handleLearnMore = () => {
@@ -20,7 +17,7 @@ export default function Index() {
         <main className="tach-background">
           <div className="grid">
             <div className="grid__item">
-              <div className="grid__item-img">
+              <a className="grid__item-img">
                 <div className="grid__item-img-deco" />
                 <svg
                   id="logo-85"
@@ -38,7 +35,7 @@ export default function Index() {
                     stopColor="#ffffff"
                   />
                 </svg>
-              </div>
+              </a>
             </div>
           </div>
         </main>

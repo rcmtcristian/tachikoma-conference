@@ -1,4 +1,5 @@
 import { lerp, getMousePos, getRandomString } from "./utils.js";
+import gsap from "gsap";
 
 // Initialize mouse position object
 let mousepos = { x: 0, y: 0 };

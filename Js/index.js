@@ -1,3 +1,12 @@
-// import { Item } from '../Js/item.js';
+import { Item } from '../Js/item.js';
 
-// [...document.querySelectorAll('.grid__item > .grid__item-img')].forEach(img => new Item(img));
+function textDisplay() {
+  return (  
+    
+[...document.querySelectorAll('.grid__item > .grid__item-img')].forEach(img => new Item(img))
+  );
+
+  
+}
+window.addEventListener('load', textDisplay);
+export default textDisplay;
