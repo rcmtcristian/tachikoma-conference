@@ -61,7 +61,7 @@ export class Item {
     // new random string
     this.DOM.el.addEventListener("mousemove", () => {
       // Get a new random string
-      this.randomString = getRandomString(2000);
+      this.randomString = getRandomString(5000 * 6);
     });
 
     // On mouseenter, fade in the deco element and
