@@ -1,4 +1,2 @@
-# Tachikoma-conference
- 
-![image](https://github.com/rcmtcristian/tachikoma-conference/assets/20276785/628c047e-69fa-4229-adca-db0e89413947)
-<!-- <img src="https://i.postimg.cc/2jJJ5vF0/ezgif-com-resize.gif"  alt="Hairdresser Salon"/> -->
+# Tachikoma
+![image](https://github.com/rcmtcristian/tachikoma-conference/assets/20276785/0dd9e47a-1edb-4fd1-a999-d5791d9575f6)
